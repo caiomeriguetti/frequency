@@ -1,7 +1,7 @@
 frequency
 =========
 
-Class that helps to execude conde in a certain frequency
+Class that helps to execude code in a certain frequency
 
 Example:
 
